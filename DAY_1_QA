@@ -1,1 +1,36 @@
+QA------ QA is the systematic process of monitoring, evaluating, and improving the quality of products
+          and services ti ensure they meet specified requirements and cusotmer exceptations 
 
+
+OBJECTIVES 
+          - To mer business requirements 
+          - Find defects
+          - Improve customer satisficationn
+          - Reduce maintenace cost 
+          - Increase software reliability 
+
+QC-QUALITY CONTROL
+          - product oriented 
+          - reactive approach centered or inspecting and testine the final software 
+            to detect and fix defects after develpments is complete 
+            RESPONSIBILITIES 
+          - create test cases 
+          - execute test cases
+          - report bugs 
+          - verify bugs 
+
+QE-QUALITY ENGINEERING 
+          - is the discipline of engineering concerned with the principles and practice
+            of product ande service quality assurance and control 
+            RESPOSIBILITIES 
+          - automation framework 
+          - write automate test 
+          - CICD pipeline ( specify test run in periods 
+
+ROLES OF JUNIOR LEVEL QA 
+          - Basic Automation Framework 
+          - work with de developers 
+          - Test cases  scenario 
+          - Write test cases      
+          - Reverifying the defects fix
+          - DB, Automation , GIT 
