@@ -34,3 +34,36 @@ ROLES OF JUNIOR LEVEL QA
           - Write test cases      
           - Reverifying the defects fix
           - DB, Automation , GIT 
+DAY 02    - SDLC 
+          - Structured process 
+                    PHASES 
+                              - REQUIREMENT ANALYSIS 
+                              - PLANING 
+                              - SYSTEM DESIGN 
+                              - IMPLEMEMENTATION 
+                              - TESTING 
+                              - DEPLOYMENT 
+                              - MANINTENANCE
+
+MODLES OF SDLC 
+          - WATERFALL MODEL 
+          - AGILE MODEL 
+
+SCRUM 
+          - Scrum is the framework for the implemmantation for  AGILE MODEL
+          - product owner 
+          - scrum master   
+          - Techincal Team
+     EVENTS 
+          - sprint 
+          - daily standup 
+          - sprint review
+          - spront restrospective 
+ QA ROLE IN EACH PHASES 
+          REQUIREMENT-> Review , Ambiguity, Acceptance cretria 
+          PLANNING -> Testing efforts, Identify risks , Prepare test strategies, Enviroment 
+          DESIGN -> Review design, Data requirement 
+          DEVELOPMENT-> Test cases, Aotomation scripts 
+          TESTING -> Testing, bugs 
+          DEPLOYMENT-> Deployment and Releases 
+          MAINTENANCE-> Test fixes and Enchancement 
