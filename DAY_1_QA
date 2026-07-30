@@ -68,3 +68,59 @@ SCRUM
           DEPLOYMENT-> Deployment and Releases 
           MAINTENANCE-> Test fixes and Enchancement 
 
+
+                    DAY-03
+
+STLC- Software Testing Life Cycle 
+          PHASES
+                    - REQUIREMENT 
+                    - TEST PLANNING 
+                    - TEST CASE DESIGN 
+                    - ENVIRONMENT SETUP 
+                    - EXECUTE THE TEST CASE 
+                    - BUG REPORTING 
+                    - TEST CLOSURE 
+TEST CASE DESIGN -- 1. Test case title 
+                    2. Preconditions
+                    3. Test data
+                    4. Test steps ---
+                              4.1 open the website 
+                              4.2 Enter valid usename in username field
+                              4.3 Enterr pwd in pwd iinput field 
+                              4.4 click on login
+EXCPECTED OUTCOMES -
+                    1. The login page should be visible to user 
+                    2. The entered email should be visible
+                    2. The entered email should be visible in encrypted form 
+                    3. The user should be logged om amd redirected toward homepage 
+
+          TYPES OF TESTING
+          1. MANUAL TESTNG- MONKEY TESTING 
+                              -Suitable for smaller appliction 
+          2. AUTOMATION- Testing with hte help of automation tools and scripts
+                         - Test case - write automation testin 
+                    TOOLS - APPIUM, SELENIUM, SRYPESS, PLAYWRIGHT
+         3. FUNCTIONAL - Functon is working or not
+                    - eg,
+                              login 
+                              user registration
+                              shoping cart 
+                              checkout 
+                              payement 
+                              order 
+          4. NON FUNCTIONAL 
+                    - uer experiences  
+                    - performance testing 
+
+          5. SMOKE TESTING- Determine if our application is ready for further testin 
+                              - application launch 
+                              - login 
+                              - dashboard leads with with correct data
+          6. SANITY TESTING- For bug fixes 
+                              - test impacted area
+                              -confirms that the fixes is working correctly and has not introduced new issues
+          7.REGRESSION TESTING - Change based test OLD + NEW 
+                              - Confirms that new code changes have not affected old functionalities
+          8.INTEGRATION , SYSTEM, USER ACCEPTANCE TESTING(UAT)
+                              - verify that multiple modules or comcepts work correctly who combined
+                              - system is performed on the complete application
