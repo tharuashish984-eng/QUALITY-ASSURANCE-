@@ -124,3 +124,40 @@ EXCPECTED OUTCOMES -
           8.INTEGRATION , SYSTEM, USER ACCEPTANCE TESTING(UAT)
                               - verify that multiple modules or comcepts work correctly who combined
                               - system is performed on the complete application
+
+
+                    DAY-05
+
+          BLACK BOX TEST->
+                    - Test technique where tester verifies the application without knowing the interrnal code or implemantation
+                    - provide input, obersiving the output and verifying application behaves according to requirement 
+                    characters-
+                              - no programming knowledge required 
+                              - commonly used by QA engineers 
+                              - focuses on user behaviour 
+
+          WHITE BOX TESTING->
+                    - test technique where tester has knowledge of internal code and implemenatation 
+
+          PRINCIPLE OF TESTING
+                    1. Testing shows the presence of defects 
+                    2. Echuastic testing is not possible 
+                    3. Early testing
+                    4. Defect clustering 
+                    5. Pesticide paradox 
+                    6. Testing paradox 
+                    7. Absence of error fallacy 
+
+          LIFE CYCLE OF BUG
+                    1. TITLE 
+                    2.STEPS OF REPRODUCE 
+                    3. ENVIRONMENT
+                    4. PRIORITY
+                    5. EXCEPTED RESULTS
+                    6. ACTUAL RESULT
+                    7.SCREENSHOT/ VIDEOS
+                    8. BUG STATES 
+                    9. ASSIGNED TO 
+
+TEST CASESE OF SWAG LABS -> https://docs.google.com/spreadsheets/d/1sGgtiW1eTnwaEtsLrjxSGTDCMjU4QqiFgwPdcVnN8U0/edit?usp=sharing
+
