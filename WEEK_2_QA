@@ -1,1 +1,48 @@
+TEST DESIGN TECHNIQUE 
+    1. EQUIVALANCE PARTITIONING -
+                      - Input data divide into groups (equivalance classes / paritions)
+            application -> 18-60
+                        - invalid-> less than 18
+                        - vlaid -> 18-60
+                        - invalid -> greater than 60
+          ADV->
+              - reduce number of test case 
+              - save testing time 
+              - good test coverages
+        DIS->
+            - boundary value may be missed
+
+2. BOUNDARY VALUE ANALYSIS ->
+                  - it focuses on testing the boundary of valid  and invalid input ranges 
+            application-> can cast vote - 18-70
+                - Developers cna often make mistakes as 
+                    1. using"<" instead of "<="
+                    2. using ">" instead of ">=" 
+        - in such cases using the equivalance partitioning may not reaveal the defects 
+    BOUNDARY VALUE ANALYSIS (BVA)
+                        - below minumun (17)
+                        - just minimum (18) 
+                        - above mminimum (19)
+                        - below maximun (69)
+                        - just maximum (70)
+                        - above maximum(71)
+
+  DICISION TABLE ->
+                  - business rules -> multiple condition combination 
+                  - true / false 
+        eg, 
+            1. BHATBHATENI 
+                  1. FREE SHOPPING 
+                      - MEMBERSHIP 
+                      - RS 1000 PURCHASE
+            2. INTERNET BANKING 
+                      - CORRECT USERNAME
+                      - CORRECT PWD 
+                      - OTP
+
+  STATE TRANSITION TESTING
+                  - used in testing of application where behaviour  depends on the current state of the applicaton 
+                  - state-> current condition of system 
+                  - transition-> move from one state to anothter after any events 
+                  - verifies application moves from current state to current state after each action
 
