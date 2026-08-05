@@ -46,3 +46,28 @@ TEST DESIGN TECHNIQUE
                   - transition-> move from one state to anothter after any events 
                   - verifies application moves from current state to current state after each action
 
+    TEST DOCUMENTATION 
+                1. Test plan
+                2. Test Scenario vs Testt case 
+                3. Test Execution Report
+            1 TEST PLAN -> document overall test strategy for a project
+                        -> what will be tested, how testing is performed who willl perform, deadline
+                        -> QA lead, QA manager 
+                        OBJ->
+                            1.Scope of testing
+                            2. Testing strategy     
+                            3. Roles and responsiblities
+                            4. Deadline (Effort)
+                        COMPONENTS
+                            1. Test plan indentifier(SN)->project name, version 1.0
+                            2. objectives-> to verify that online shopping works correctly and mer all the business requirement 
+                            3. scope-> producr page ->Add to cart Icon and page 
+                            4. Out of scope -> Existing Module that are not impacted by code change(login, registration)
+                                            -> mobile Browser Testing
+                            5. Test strategy -> finctional Testing
+                                            -> Regression Testinng
+                                            -> API TEsting (Backend)
+                                            -> UAT(Beta testing)
+
+                            6. Test Environmrnt-> specify which all environment 
+                            7.
