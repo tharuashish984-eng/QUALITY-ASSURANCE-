@@ -71,3 +71,50 @@ TEST DESIGN TECHNIQUE
 
                             6. Test Environmrnt-> specify which all environment 
                             7.
+        2.TEST SCENARIO VA TEST CASE 
+                            -> high level description what to test 
+                            -> only titles of test cases 
+                            features-> login 
+                    Test cases 
+                            -> every title of test scenario will be created as detailed test cases 
+                            -> how to test
+        3. TEST EXECUTION REPORTS
+                            ->summary of test execution 
+                            -> show how many xases passed, failed, blocked,skipped 
+                            -> stakeholders cansee the progress of testing and release , readyness
+                            -> number of crirical, high, low, bugs, present/fixed, remaining to fix. 
+                    OBJ-> track testing program 
+                        -> measure left coverage 
+                        -> summarize test results 
+                        -> identify faile cases 
+
+
+        API TESTING
+                    -> Application parogram interface 
+                    -> allows 2 application  to communicate wwoth each other
+                    -> API acts as a messenger         
+                    -> requests from one application 
+                    -> sends it to another application and returns the results 
+
+        HTTP PTOTOCOLS (API TYPES)
+                    1. GET
+                    2. POST 
+                    3. PUT
+                    4. PATCH
+                    5. DELETE
+
+            1.GET
+                -> Only retrives the informationn from the server
+                -> it should only read data and should not notify anthing
+            2. POST
+                -> creates new data to the sever/db
+            3. PUT
+                -> update the existing resources 
+            4. PATCH
+                -> updates only the required records
+            5. DELETE 
+                -> deletes the existing records 
+
+    APT STRUCTURE -> COMPONENTS OF THE API
+            1. URL (ENDPOINT )
+                - https://play.google.com/log?
